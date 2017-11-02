@@ -78,7 +78,7 @@ For more examples and ideas, visit:
 任意の位置で実行してください  
 
 ```
-git clone https://github.com/chemo-wakate/tutorial-6th.git
+git clone https://github.com/chemo-wakate/tutorial-7th.git
 ```
 :bulb: Windows環境で `git` がインストールされていない場合は以下のページから `git` をインストールしてください  
 - https://git-for-windows.github.io/
