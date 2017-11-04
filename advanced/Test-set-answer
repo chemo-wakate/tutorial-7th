@@ -1,0 +1,16 @@
+SMILES	IC50	journal	name	memo	used
+CN(C)C(=O)Cn5cc(c4nc([C@@](C)(c2ccc(c1cnc(N)nc1)cc2)C3CC3)no4)cn5	11μM	1-s2.0-S0960894X17308971-main.pdf	BI665915	chembleに登録されている可能性あり	これ使えない
+CC(C)(O)Cn5cc(c4nc(C3(c2ccc(c1cnc(N)nc1)cc2)CCC3)no4)cn5	11μM	1-s2.0-S0960894X17308971-main.pdf	19
+O1c2c(OC1)cc5c(c2)c4cc3ccc(OC)c(OC)c3c[n+]4CC5	3.1μM	1-s2.0-S0223523417306943-main.pdf	berberine	すでにChEMBLに含まれているかも
+CCc4cc2c(CCN3Cc1c(OC)ccc(OC)c1CC23)s4	10.5μM	1-s2.0-S0223523417306943-main.pdf	4bq	4bqと4bvはかなり似ている
+COc4ccc(OC)c5CN3CCc2sc(Cc1ccccc1)cc2C3Cc45	21.3μM	1-s2.0-S0223523417306943-main.pdf	4bv	4bqと4bvはかなり似ている
+C=C(C)CN(CC)c1ccc(C#N)cc1	3.2μM	acs.jmedchem.7b00462.pdf	1	1,30f,32は似ている
+C=C(CN(Cc1ccc(OC)c(F)c1)c2ccc(C#N)cc2)N3CCC(CN)CC3	12.4μM	acs.jmedchem.7b00462.pdf	30f	1,30f,32は似ている
+C=C(CN(Cc1ccc(OC)c(F)c1)c2ccc(C#N)cc2)N3CCC4(CC3)CNC4	20.1μM	acs.jmedchem.7b00462.pdf	32	1,30f,32は似ている
+CN(C/C=C/C1=CC(F)=C(C(F)(F)F)C=C1)CC2=CC(OCCC3)=C3C=C2	0.2μM	acs.jmedchem.7b00949.pdf	46	かなり阻害活性が強い,30と46は似ている
+CN(C/C=C/C1=CC=C(C(OC)=O)C=C1)CC2=CC(OCCC3)=C3C=C2.Cl	6.5μM	acs.jmedchem.7b00949.pdf	30	30と46は似ている
+N#Cc6ccc5[nH]cc(CCCCN4CCN(c2c1CCCc1nc3ccccc23)CC4)c5c6	6.95μM	acschemneuro.7b00259.pdf	1e
+n1c3c(c(c2c1cccc2)N)CCCC3	5.74μM	acschemneuro.7b00259.pdf	tacrine	すでにChEMBLに含まれているかも
+N#Cc1ccc2c(c1)c(cn2)CCCCN5CCN(c4cc3c(oc(c3)C(=O)N)cc4)CC5	5.55μM	acschemneuro.7b00259.pdf	vilazodone	すでにChEMBLに含まれているかも
+Clc1cc(c(OC)cc1N)C(=O)NC3CCN(CCCOc2ccc(F)cc2)CC3OC	0.06μM	acschemneuro.7b00259.pdf	cisapride	すでにChEMBLに含まれているかも
+COc2nc1ccc(CO)cc1cc2C(c3ccccc3)C(O)(CCN(C)C)c4cccc5ccccc45	10μM	ml7b00196.pdf	16

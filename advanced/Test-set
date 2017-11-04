@@ -1,0 +1,16 @@
+SMILES name
+CN(C)C(=O)Cn5cc(c4nc([C@@](C)(c2ccc(c1cnc(N)nc1)cc2)C3CC3)no4)cn5 BI665915
+CC(C)(O)Cn5cc(c4nc(C3(c2ccc(c1cnc(N)nc1)cc2)CCC3)no4)cn5 19
+O1c2c(OC1)cc5c(c2)c4cc3ccc(OC)c(OC)c3c[n+]4CC5 berberine
+CCc4cc2c(CCN3Cc1c(OC)ccc(OC)c1CC23)s4 4bq
+COc4ccc(OC)c5CN3CCc2sc(Cc1ccccc1)cc2C3Cc45 4bv
+C=C(C)CN(CC)c1ccc(C#N)cc1 1
+C=C(CN(Cc1ccc(OC)c(F)c1)c2ccc(C#N)cc2)N3CCC(CN)CC3 30f
+C=C(CN(Cc1ccc(OC)c(F)c1)c2ccc(C#N)cc2)N3CCC4(CC3)CNC4 32
+CN(C/C=C/C1=CC(F)=C(C(F)(F)F)C=C1)CC2=CC(OCCC3)=C3C=C2 46
+CN(C/C=C/C1=CC=C(C(OC)=O)C=C1)CC2=CC(OCCC3)=C3C=C2.Cl 30
+N#Cc6ccc5[nH]cc(CCCCN4CCN(c2c1CCCc1nc3ccccc23)CC4)c5c6 1e
+n1c3c(c(c2c1cccc2)N)CCCC3 tacrine
+N#Cc1ccc2c(c1)c(cn2)CCCCN5CCN(c4cc3c(oc(c3)C(=O)N)cc4)CC5 vilazodone
+Clc1cc(c(OC)cc1N)C(=O)NC3CCN(CCCOc2ccc(F)cc2)CC3OC cisapride
+COc2nc1ccc(CO)cc1cc2C(c3ccccc3)C(O)(CCN(C)C)c4cccc5ccccc45 16
