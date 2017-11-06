@@ -1,5 +1,4 @@
 SMILES IC50
-CN(C)C(=O)Cn5cc(c4nc([C@@](C)(c2ccc(c1cnc(N)nc1)cc2)C3CC3)no4)cn5 11μM
 CC(C)(O)Cn5cc(c4nc(C3(c2ccc(c1cnc(N)nc1)cc2)CCC3)no4)cn5 11μM
 O1c2c(OC1)cc5c(c2)c4cc3ccc(OC)c(OC)c3c[n+]4CC5 3.1μM
 CCc4cc2c(CCN3Cc1c(OC)ccc(OC)c1CC23)s4 10.5μM
