@@ -7,7 +7,7 @@
 #         -it \  # -t: tty（標準入力を受け取るのに必要）をコンテナのプロセスに割り当てる -i: 標準入力を待ち受け状態にする
 #         -p 8888:8888 \  # portを設定 ホスト側:コンテナ側 Jupyterがデフォルトで8888を割り当てるのでこれに合わせている
 #         -v ${CWD}:/home/jovyan/chemo \  # カレントディレクトリをコンテナにマウント
-#         chemowakate/tutorial-6th  # イメージを指定
+#         chemowakate/tutorial-7th  # イメージを指定
 # example:
 #    sh ./run_jupyter.sh
 #
